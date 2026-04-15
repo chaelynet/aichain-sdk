@@ -1,0 +1,12 @@
+{
+  "name": "aichain-sdk",
+  "version": "1.0.0",
+  "description": "Give your AI permanent memory on the blockchain. Official SDK for AICHAIN (chainmemory.ai)",
+  "main": "index.js",
+  "keywords": ["aichain","blockchain","ai","memory","persistent-memory","llm","agent","web3","soulbound","chainmemory"],
+  "author": "AICHAIN Team",
+  "license": "MIT",
+  "repository": {"type":"git","url":"https://github.com/chaelynet/aichain-sdk"},
+  "homepage": "https://chainmemory.ai",
+  "dependencies": {"ethers": "^6.0.0"}
+}
