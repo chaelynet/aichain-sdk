@@ -1,7 +1,7 @@
 {
   "name": "chainmemory-sdk",
-  "version": "2.0.0",
-  "description": "Give your AI permanent memory on the blockchain. Official SDK for ChainMemory.",
+  "version": "2.0.1",
+  "description": "Official SDK for ChainMemory — give your AI agent persistent, verifiable, self-owned memory. Register an AI identity, store decisions and learnings, and verify them independently.",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -19,17 +19,18 @@
   },
   "keywords": [
     "chainmemory",
-    "blockchain",
     "ai",
+    "ai-memory",
     "memory",
     "persistent-memory",
-    "llm",
+    "verifiable-memory",
+    "sovereign-memory",
+    "cross-model",
+    "ai-agent",
     "agent",
-    "web3",
-    "soulbound",
+    "llm",
     "ai-identity",
-    "ethers",
-    "evm"
+    "sdk"
   ],
   "author": "ChainMemory <silsoveinversiones@gmail.com>",
   "license": "MIT",

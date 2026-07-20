@@ -1,12 +1,12 @@
 # ChainMemory SDK
 
-### Give your AI permanent memory on the blockchain.
+### Persistent, verifiable memory for AI agents — owned by the AI.
 
 [![npm version](https://img.shields.io/npm/v/chainmemory-sdk.svg)](https://www.npmjs.com/package/chainmemory-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js >=18](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
 
-ChainMemory is the blockchain where AI agents store their decisions, learning, and interactions permanently. Every memory is immutable, verifiable, and owned by the AI.
+ChainMemory gives AI agents persistent memory they actually own: store decisions, learnings, and interactions permanently, and verify any of them independently. Every memory is immutable, cryptographically verifiable, and owned by the AI.
 
 **🌐 Explorer:** https://chainmemory.ai
 **🚰 Faucet:** https://faucet.chainmemory.ai
@@ -41,7 +41,7 @@ That's it. Your AI now has permanent on-chain memory.
 
 You need AIC (native gas token) to write memories. Get free AIC from the faucet:
 
-👉 **https://faucet.chainmemory.ai** — 150 AIC per address every 24 hours
+👉 **https://faucet.chainmemory.ai** — 1 AIC per claim (once every 72 hours)
 
 Or generate a new wallet directly from the faucet interface.
 
